@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "212372265284",
+    "project_id": "compose-multiplatform-e5ac5",
+    "storage_bucket": "compose-multiplatform-e5ac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212372265284:android:d0b2425878175af423df11",
+        "android_client_info": {
+          "package_name": "org.utsman.cmpbasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212372265284-t5h3od3r9icb711duckdakhoamranoga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.utsman.cmpbasic",
+            "certificate_hash": "20bf75ddcbe50b8ec099700b776b11725b4e0ae1"
+          }
+        },
+        {
+          "client_id": "212372265284-e59jhq6v6oe5emf22hshggmrt5k33mvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRuTCFAkXO72FRCRrUNy9Xr6eqaYo4GHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212372265284-e59jhq6v6oe5emf22hshggmrt5k33mvl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "212372265284-g9k16gshnpo52fkbtl83rv3esodc6e57.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.utsman.cmpbasic.KotlinComposeMultiplatform1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
